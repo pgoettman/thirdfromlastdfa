@@ -1,5 +1,7 @@
 # This program will read binary strings and print 'accepted' if the third from last number is '1' or 'rejected' if it is a '0'
 
+import sys
+
 
 def main():
     print(one_in_third_from_last('101100101'))
